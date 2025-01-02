@@ -1,1 +1,2 @@
-# kholl28.github.io
+**Technical skills**: R, Python, SQL, GIS, Tableau
+
